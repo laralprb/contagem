@@ -1,0 +1,42 @@
+body{
+background-image: url(count.jpg);
+background-position: center;
+}
+
+header{
+    font-family:'Dela Gothic One', cursive;
+    font-size: 15pt;
+    text-shadow: 3px 3px 8px black;
+    color: white;
+    text-align: center;
+}
+
+section{
+    font-family: 'Gudea', sans-serif;
+    font-size: 12pt;
+    background-color: rgb(228, 214, 214);
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 3px 3px 8px rgb(105, 105, 105);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 10px;
+    font-family:'Dela Gothic One', cursive;
+    text-shadow: 3px 3px 8px black;
+}
+
+#btn {
+font-family:'Dela Gothic One', cursive;
+}
+
+#btn:hover {
+    background-color: rgb(163, 62, 62);
+    transition: 1s;
+}
+
